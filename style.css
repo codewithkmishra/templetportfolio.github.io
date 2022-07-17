@@ -392,8 +392,8 @@ ka css
 }
 
 .work {
-    width: 100%;
-
+   width: 80%;
+    position: relative;
     overflow: hidden;
     border-radius: 8px;
 

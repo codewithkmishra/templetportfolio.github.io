@@ -22,8 +22,7 @@ body {
     background-image: url(img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
-    
-    background-position-x: 2px;
+
     background-position: center;
     position: relative;
 
